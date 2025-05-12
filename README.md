@@ -5,12 +5,24 @@
 This project analyzes a dataset of Airbnb listings in New York City to uncover patterns related to pricing, availability, host behavior, and guest interest. The goal is to derive insights that can help Airbnb hosts, analysts, or potential guests make informed decisions.
 
 ## Project Structure
+### 1. **Milestone #1: Final Project Proposal.pdf**
+   - This file outlines the initial project proposal, including the research questions and dataset overview.
 
-- `FinalProject.ipynb`: Main Jupyter Notebook with data cleaning, exploration, and analysis.
-- `listings.csv`: The cleaned dataset used for analysis (original from Inside Airbnb).
-- `project_summary.pdf`: 1-page summary outlining tools used, key questions, and insights.
-- `presentation_slides.pdf`: Slide deck prepared for presenting findings.
-- `README.md`: This file describing the project and its contents.
+### 2. **Milestone2.ipynb**
+   - This notebook focuses on the initial exploratory data analysis (EDA), where the dataset is loaded and we explore its basic properties.
+
+### 3. **Milestone3.ipynb**
+   - This notebook performs cleaning steps on the dataset, preparing it for analysis.
+
+### 4. **Milestone4.ipynb**
+   - This notebook performs whatever aggregate functions are needed to answer at least 2 of the 4 required questions.
+
+### 5. **README.md**
+   - This file provides an overview of the project, how to navigate the repository, and descriptions of the project files.
+
+### 6. **project_summary.pdf**
+   - A 1-page summary of the project, including the tools used, questions asked, insights discovered, and recommendations for future work.
+
 
 ## Tools Used
 
