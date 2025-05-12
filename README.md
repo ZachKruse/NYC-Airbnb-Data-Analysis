@@ -26,6 +26,8 @@ This project analyzes a dataset of Airbnb listings in New York City to uncover p
 ### 6. **project_summary.pdf**
    - A 1-page summary of the project, including the tools used, questions asked, insights discovered, and recommendations for future work.
 
+### 7. **presentation_slides.pdf**
+   - Presentation of the project's findings.
 
 ## Tools Used
 
