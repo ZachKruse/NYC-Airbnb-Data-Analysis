@@ -17,6 +17,9 @@ This project analyzes a dataset of Airbnb listings in New York City to uncover p
 ### 4. **Milestone4.ipynb**
    - This notebook performs whatever aggregate functions are needed to answer at least 2 of the 4 required questions.
 
+### 5. **FinalProject.ipynb**
+   - This is the final Jupyter notebook containing the complete analysis. It includes the cleaned data, answers to the four key research questions, and visualizations that provide insights into the NYC Airbnb dataset.
+
 ### 5. **README.md**
    - This file provides an overview of the project, how to navigate the repository, and descriptions of the project files.
 
