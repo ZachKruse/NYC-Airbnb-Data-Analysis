@@ -37,10 +37,10 @@ This project analyzes a dataset of Airbnb listings in New York City to uncover p
 
 ## Questions Explored
 
-Question 1: What factors influence the price of Airbnb listings in NYC?
-Question 2: Which neighborhoods have the highest and lowest average prices?
-Question 3: How does room type affect price and availability?
-Question 4: What’s the relationship between the number of reviews and a listing’s popularity?
+- Question 1: What factors influence the price of Airbnb listings in NYC?
+- Question 2: Which neighborhoods have the highest and lowest average prices?
+- Question 3: How does room type affect price and availability?
+- Question 4: What’s the relationship between the number of reviews and a listing’s popularity?
 
 
 
